@@ -31,7 +31,7 @@
     "hygen": "^1.6.2",
     "jest-cli": "^21.3.0-beta.15",
     "jest-serializer-vue": "^2.0.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "source-map": "^0.7.3",
     "vue-jest": "^3.0.0"
   },
